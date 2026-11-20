@@ -1,0 +1,6 @@
+{
+  "name": "BM GAMING PRO",
+  "description": "Smart gaming sensitivity, DPI, fire button & headshot training companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
